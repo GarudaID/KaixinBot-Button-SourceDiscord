@@ -1,6 +1,6 @@
 # Kaixin-Button-Source
 <p align="center">
-<h2>this is a bot kaixin open source button help commands, if u want add music please add</h2>
+<h2>this is a bot kaixin open source button help commands, if you want to add music please put it in the music folder</h2>
  </p>
 <hr>
 <p align="center">
