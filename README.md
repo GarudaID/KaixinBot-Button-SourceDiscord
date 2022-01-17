@@ -3,6 +3,8 @@
 <h2>this is a bot kaixin open source button help commands, if you want to add music please put it in the music folder</h2>
  </p>
 <hr>
+<h2><p align="center"><a href="https://discord.com/oauth2/authorize?client_id=904032472755499099&permissions=327558298918&scope=bot">🔗Invite Kaixin to your server🔗</a>
+ </p>
 <p align="center">
  <img src="https://github.com/GarudaID/KaixinBot-Button-SourceDiscord/blob/main/pictures/kai.PNG">
 </p>
