@@ -1,6 +1,9 @@
 # Kaixin-Button-Source
 this is a bot kaixin open source button help commands, if u want add music please add
 <hr>
+<p align="center">
+ <img src="https://github.com/GarudaID/KaixinBot-Button-SourceDiscord/blob/main/pictures/kai.PNG">
+</p>
 
 ## Installation | How to use the Bot
 
