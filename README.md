@@ -8,6 +8,8 @@
 <p align="center">
  <img src="https://github.com/GarudaID/KaixinBot-Button-SourceDiscord/blob/main/pictures/kai.PNG">
 </p>
+ <h2><p align="center"><a href="https://zone-id.my.id/">🔗Kaixin - Welcome to Future!🔗</a>
+ </p>
 <hr>
 
 ## ✨ Contributors :
