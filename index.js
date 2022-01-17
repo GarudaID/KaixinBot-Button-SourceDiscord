@@ -152,5 +152,4 @@ client.on("ready", () => {
   client.user.setActivity('>help');
  console.log(`Successfully logined as ${client.user.tag} `)
 });
-
 client.login(TOKEN);
