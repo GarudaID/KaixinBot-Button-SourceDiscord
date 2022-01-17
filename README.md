@@ -48,3 +48,4 @@ Thanks goes to these wonderful people :
 ## **NOTE:**
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+*Sorry, I deleted the command/music section, because the Kaixin bot has not been `verified by discord`*
