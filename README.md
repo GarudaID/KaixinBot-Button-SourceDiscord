@@ -5,6 +5,26 @@ this is a bot kaixin open source button help commands, if u want add music pleas
  <img src="https://github.com/GarudaID/KaixinBot-Button-SourceDiscord/blob/main/pictures/kai.PNG">
 </p>
 
+## ✨ Contributors :
+
+Thanks goes to these wonderful people :
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/GarudaID"><img src="https://avatars.githubusercontent.com/u/48685463?v=4" width="100px;" alt=""/><br /><sub><b>KaiXin#5925</b></sub></a><br /><a title="Founder Kaixin">👑</a></td>
+     
+  </tr>
+  
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Installation | How to use the Bot
 
  **1.** Install [node.js v12](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
