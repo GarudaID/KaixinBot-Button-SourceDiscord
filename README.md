@@ -27,7 +27,7 @@ Thanks goes to these wonderful people :
 
 <table>
   <tr>
-     <td align="center"><a href="https://discord.com/users/447411230098063362"><img src="https://avatars.githubusercontent.com/u/48685463?v=4" width="100px;" alt=""/><br /><sub><b>KaiXin#5925</b></sub></a><br /><a title="Founder Kaixin">👑</a></td>
+     <td align="center"><a href="https://discord.com/users/447411230098063362"><img src="https://avatars.githubusercontent.com/u/48685463?v=4" width="100px;" alt=""/><br /><sub><b>KaiXin#5925</b></sub></a><br /><a title="Founder Kaixin">Founder Kaixin👑</a></td>
      
   </tr>
   
