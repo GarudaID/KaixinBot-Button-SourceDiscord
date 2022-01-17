@@ -6,4 +6,4 @@ const { MessageActionRow, MessageButton } = require("discord-buttons");
 const { prefix, developerID, bot, support } = require("../../config.json")
 
 
-//  UNDER DEVELOPMEN, PLEASE COME BACK AGAIN LATER 
+//  UNDER DEVELOPMEN, PLEASE COME BACK AGAIN LATER .
