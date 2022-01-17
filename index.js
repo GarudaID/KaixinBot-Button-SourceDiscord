@@ -26,7 +26,7 @@ const games = new Map()
 
 const yts = require('yt-search');
 
-const ads = require("./JSON/ad.json")
+// const ads = require("./JSON/ad.json") (make bot advertising)
 
 // ADD YOUR TOKEN HERE
 const TOKEN = "
@@ -58,6 +58,7 @@ client.on("message", async message => {
             console.log(e)
     };
   
+  // if your bot is tagged by someone, the information section about the bot will come out,
    const prefixMention = new RegExp(`^<@!?${client.user.id}>( |)$`);
   if (message.content.match(prefixMention)) {
 
@@ -86,29 +87,8 @@ client.on("message", async message => {
   let command = client.commands.get(cmd);
 
   if (!command) command = client.commands.get(client.aliases.get(cmd));
-
-  if (command.premium) {
-    let guild = await db.get(`premium_${message.guild.id}`);
-
-
-    if (!guild) {
-      return message.channel.send(`Onyl Premium server`)
-    }
-
-  }
-   let ops = {
-            queue: queue,
-            queue2: queue2,
-            queue3: queue3,
-            games: games
-        }
-
-
-  if (command) command.run(client, message, args, ops);
   
-
 });
-
 
 
 client.on("message", async message => {
