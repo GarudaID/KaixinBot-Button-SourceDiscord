@@ -22,7 +22,7 @@
     "discord-music-player": "^8.0.2",
     "discord-player": "^5.1.0",
     "discord-reply": "^0.1.2",
-    "discord.js": "^12.5.3",
+    "discord.js": "^13.6.0",
     "distube": "^3.1.1",
     "dotenv": "^10.0.0",
     "erit-ytdl": "^0.1.3",
