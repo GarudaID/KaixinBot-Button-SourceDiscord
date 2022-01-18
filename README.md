@@ -1,7 +1,10 @@
 # 🤖 Kaixin (Discord Menu-Buttons)
 
 ```<p align="center">
-this is a bot kaixin open source button help commands, if you want to add music please put it in the music folder
+this is a bot kaixin open source button help commands.
+if you want to add music please put it in the music folder
+
+note: Folder music has been delete, because bot kaixin can't verified discord
  ```
  
  </p>
