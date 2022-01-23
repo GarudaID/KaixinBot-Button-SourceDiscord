@@ -1,4 +1,17 @@
-# 🤖 Kaixin (Discord Menu-Buttons)
+<h1 align="center">
+  <br>
+  🤖 Kaixin (Discord Menu-Buttons)
+  <br>
+</h1>
+
+<h3 align=center>Discord music and menu help button bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+
+
+<div align=center>
+
+![Website](https://img.shields.io/website?down_color=white&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fzone-id.my.id)
+  
+</div>
 
 ```<p align="center">
 this is a bot kaixin open source button help commands.
