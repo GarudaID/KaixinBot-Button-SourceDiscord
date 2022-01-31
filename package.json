@@ -24,7 +24,7 @@
     "discord-reply": "^0.1.2",
     "discord.js": "^13.6.0",
     "distube": "^3.2.0",
-    "dotenv": "^14.2.0",
+    "dotenv": "^15.0.0",
     "erit-ytdl": "^0.1.3",
     "ffmpeg": "0.0.4",
     "html-entities": "^2.3.2",
