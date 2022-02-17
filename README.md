@@ -35,6 +35,15 @@ note: Folder music has been delete, because bot kaixin can't verified discord
  <h2><p align="center"><a href="https://zone-id.my.id/">🔗Kaixin - Welcome to Future!🔗</a>
  </p>
 <hr>
+   
+## 🖥️ Hosting
+
+> We host this bot. KaiXin *will be* online 24/7. [Invite KaiXin here!](#invite)<br>
+> However, if you want to host Kaixin yourself - [take a look here](#-self-hosting-bot)
+
+| Heroku | Replit | ??? |
+|---|---|---|
+| [![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/GarudaID/KaixinBot-Button-SourceDiscord/tree/master) | [![Run on Repl.it](https://repl.it/badge/github/GarudaID/KaixinBot-Button-SourceDiscord)](https://repl.it/github/GarudaID/KaixinBot-Button-SourceDiscord) |
 
 ## Installation | How to use the Bot
 
