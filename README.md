@@ -69,3 +69,6 @@ note: Folder music has been delete, because bot kaixin can't verified discord
 <br>
 *Sorry, I deleted the command/music section, because the Kaixin bot has not been `verified by discord`*
 <hr>
+
+## 📋 License
+This project is licensed under the MIT. See the [LICENSE](https://github.com/GarudaID/KaixinBot-Button-SourceDiscord/blob/main/LICENSE) file for details
